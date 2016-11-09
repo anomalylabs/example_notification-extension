@@ -1,0 +1,9 @@
+{
+    "name": "anomaly/example_notification-extension",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Anomaly\\ExampleNotificationExtension\\": "src/"
+        }
+    }
+}
